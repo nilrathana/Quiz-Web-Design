@@ -1,0 +1,14 @@
+body{
+    background: white;
+}
+h1{
+    border: 5px solid black;
+    background: black;
+    text-align: center;
+    color: orange;
+}
+div,image{
+    margin: 1px;
+    border: 1px solid beige;
+    width: 1px;
+}
